@@ -1,2 +1,2 @@
 # internship-task
-Whole task project during 6 month internship
+first try to use github. this is only a test
